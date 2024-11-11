@@ -163,4 +163,4 @@ tenant = Client(schema_name="test", name="test Company")
 domain = Domain(domain="btest.localhost", tenant=tenant, is_primary=True)
 
 
-Thank you for Reading !! 🙌🏻, see you in the next article.🤘
+Thank you for Reading !!, see you in the next article.
