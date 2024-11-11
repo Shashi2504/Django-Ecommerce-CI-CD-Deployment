@@ -9,7 +9,7 @@ Automating deployment processes is crucial for modern web development, enhancing
 
 
 ### Prerequisites:
-Before we get into the good stuffs, first we need to make sure we have the required services on our local machine or dev server, which are:
+Here are the services I got in touch to the projecton my local machine or dev server, which are:
 
 - Basic knowledge of Django
 - AWS Account
@@ -29,11 +29,6 @@ Before we get into the good stuffs, first we need to make sure we have the requi
 - Basic knowledge of HTML or React
 - Any Browser for testing
 - Intermediate knowledge in Serverless Computing ( Ex : AWS Lambda , ECS,..)
-
-You can follow along with this source code:
-GitHub - joelwembo/django-multitenant-saas-ecommerce-kubernetes: Django Multi-tenant …
-Django Multi-tenant , microservices , Kubernetes, Jenkins, Github Actions and Multiple Databases using docker, bash…
-github.com
 
 ## Steps
 
@@ -114,11 +109,6 @@ http://127.0.0.1:8585/swagger/
 
 http://127.0.0.1:8585/data-browser/
 ![image](https://github.com/joelwembo/django-restful-api-postgres-kubernetes-poc/assets/19718580/83a0f788-36ea-4bb1-a626-17c2154bd512)
-
-
-# GraphQL
-![Alt text](image.png)
-http://127.0.0.1:8585/graphql
 
 # Extensions
 python manage.py show_urls
