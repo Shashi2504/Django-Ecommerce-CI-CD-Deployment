@@ -9,7 +9,7 @@ Automating deployment processes is crucial for modern web development, enhancing
 
 
 ### Prerequisites:
-Here are the services I got in touch to the projecton my local machine or dev server, which are:
+Here are the services I got in touch to do the project on my local machine or dev server, which are:
 
 - Basic knowledge of Django
 - AWS Account
